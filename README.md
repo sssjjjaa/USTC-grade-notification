@@ -2,6 +2,10 @@
 
 中科大教务系统成绩自动检测与邮件通知脚本
 
+## 原项目
+
+本项目基于 [yusanshi/USTC-grade-notification](https://github.com/yusanshi/USTC-grade-notification) 进行更新和改进。
+
 ## 功能
 
 - 自动检测中科大教务系统成绩更新
@@ -103,4 +107,7 @@ USTC-grade-notification/
 
 ## 许可证
 
-MIT License
+本项目采用 MIT License 许可证。
+
+原项目作者：yusanshi  
+原项目地址：https://github.com/yusanshi/USTC-grade-notification
